@@ -30,7 +30,7 @@ def wish_me():
         speak("Good afternoon, sir!")
     else:
         speak("Good evening, sir!")
-    speak("I am Ankit. How can I assist you today?")
+    speak("I am jarvis. How can I assist you today?")
 
 def take_command():
     r = sr.Recognizer()
